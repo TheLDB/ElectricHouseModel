@@ -1,0 +1,24 @@
+{
+  "name": "electrichouse",
+  "version": "0.0.1",
+  "description": "Arduino Electric House Model. Built using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLDB/ElectricHouseModel.git"
+  },
+  "keywords": [
+    "arduino",
+    "node",
+    "javascript"
+  ],
+  "author": "Landon Boles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLDB/ElectricHouseModel/issues"
+  },
+  "homepage": "https://github.com/TheLDB/ElectricHouseModel#readme"
+}
