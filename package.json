@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/TheLDB/ElectricHouseModel/issues"
   },
-  "homepage": "https://github.com/TheLDB/ElectricHouseModel#readme"
+  "homepage": "https://github.com/TheLDB/ElectricHouseModel#readme",
+  "dependencies": {
+    "johnny-five": "^2.0.0"
+  }
 }
